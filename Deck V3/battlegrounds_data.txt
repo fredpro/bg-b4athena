@@ -1,0 +1,23 @@
+﻿Terrain,Description,Valeur
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Plaine,Tout ce qu'il y a de plus simple : une plaine,0
+Forêt,"Une simple forêt, qui donne quand même un avantage startégique à qui la contrôle",2
+Forêt,"Une simple forêt, qui donne quand même un avantage startégique à qui la contrôle",2
+Forêt,"Une simple forêt, qui donne quand même un avantage startégique à qui la contrôle",2
+Forêt,"Une simple forêt, qui donne quand même un avantage startégique à qui la contrôle",2
+Forêt,"Une simple forêt, qui donne quand même un avantage startégique à qui la contrôle",2
+Colline,Qui contrôle la colline domine la bataille,4
+Colline,Qui contrôle la colline domine la bataille,4
+Colline,Qui contrôle la colline domine la bataille,4
+Colline,Qui contrôle la colline domine la bataille,4
+Port,"Contrôler le port, c'est contrôler les navires",8
+Port,"Contrôler le port, c'est contrôler les navires",8
+Port,"Contrôler le port, c'est contrôler les navires",8
+Forteresse,"Pour la défense, il vaut mieux être bien protégé.",10
+Forteresse,"Pour la défense, il vaut mieux être bien protégé.",10
+Temple de Zeus,Lieu hautement symbolique,12
+Parthénon,Au plus près des dieux,15

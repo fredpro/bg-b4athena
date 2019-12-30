@@ -1,0 +1,39 @@
+link=skills_data.txt
+cardsize=4.4, 6.6
+[all]="1-{(pouvoir)}"
+[pos_title_cost]=0.18,0.0,0.5,0.5
+[val_cost]=0.18,0.26,0.37,0.55
+[pos_title_vp]=3.8,0.0,0.5,0.5
+[val_v_pts]=3.8,0.26,0.5,0.5
+[val_skill]=0.37,2.2,3.7,1.1
+[rect_skill_desc]=0.3,3.5,3.9,2.2
+[val_desc]=0.5,3.6,3.5,2.0
+
+[back_white]=#FFFFFF
+
+[middle]="center","center"
+[black]=#000000
+
+[FONT_CARAC_HEADER]="arial", 6, BT, [black]
+[FONT_CARAC_VALUE]="arial", 7, BT, [black]
+[FONT_TITLE]="arial",9, T, [black]
+[FONT_DESC]="arial",6,T,[black]
+
+rectangle=[all],0,0,4.4,6.6,[black]
+rectangle=[all],0.1,0.1,4.2,6.4,[back_white]
+
+FONT=[FONT_TITLE]
+TEXT=[all],[pouvoir],[val_skill],center,wordwrap
+
+FONT=[FONT_DESC]
+text=[all],[description],[val_desc],left,wordwrap
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Coût",[pos_title_cost],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[cout],[val_cost],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"VP",[pos_title_vp],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[valeur],[val_v_pts],center

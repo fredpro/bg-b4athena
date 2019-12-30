@@ -1,0 +1,54 @@
+link=skills_data.txt
+cardsize=4.4,6.6
+[all]="1-{(pouvoir)}"
+[pos_title_cost]=0.18,0.0,0.5,0.5
+[val_cost]=0.18,0.26,0.37,0.55
+[pos_title_vp]=3.8,0.0,0.5,0.5
+[val_v_pts]=3.8,0.26,0.5,0.5
+[val_skill]=0.37,2,3.7,1.1
+[rect_skill_desc]=0.3,3.5,3.9,2.2
+[val_desc]=0.5,2.6,3.5,3.0
+[pos_title_phase]=0.18,5.6,2,0.5
+[pos_val_phase]=0.18,6.02,1.75,1
+[pos_title_duration]=2.2,5.6,2,0.5
+[pos_val_duration]=3.2,6.02,1,0.5
+
+[back_white]=#FFFFFF
+
+[middle]="center","center"
+[black]=#000000
+
+[FONT_CARAC_HEADER]="arial", 6, BT, [black]
+[FONT_CARAC_VALUE]="arial", 7, BT, [black]
+[FONT_PHASE_VALUE]="arial", 5, IT, [black]
+[FONT_TITLE]="arial",9, T, [black]
+[FONT_DESC]="arial",6,T,[black]
+
+rectangle=[all],0,0,4.4,6.6,[black]
+rectangle=[all],0.1,0.1,4.2,6.4,[back_white]
+
+FONT=[FONT_TITLE]
+TEXT=[all],[pouvoir],[val_skill],center,wordwrap
+
+FONT=[FONT_DESC]
+text=[all],[description],[val_desc],left,wordwrap
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Coût",[pos_title_cost],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[cout],[val_cost],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"PV",[pos_title_vp],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[valeur],[val_v_pts],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Phase d'activation",[pos_title_phase],left,center
+FONT=[FONT_PHASE_VALUE]
+TEXT=[all],[phase],[pos_val_phase],center,wwtop
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Type d'effet",[pos_title_duration],right,center
+FONT=[FONT_PHASE_VALUE]
+TEXT=[all],[Duree],[pos_val_duration],center,wwtop

@@ -1,0 +1,97 @@
+﻿Pouvoir,Description,Valeur,Cout,Phase,Duree
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Annihilation de pouvoir,Désactive un pouvoir en cours d'activation de l'adversaire,6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Anticipation,"En cas de victoire, l'adversaire jouera sa carte en premier au prochain tour.",6,1,Révélation,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Attaque surprise,"Si le joueur attaque, il peut choisir la carte que son adversaire va jouer parmi celles disponibles.",4,1,Engagement,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Bataille épique,"L'attaquant puis le défenseur rajoutent chacun une carte disponible de leur pyramide au duel en cours. Si des pouvoirs actifs parmi les cartes doivent viser une carte adverse ou alliée, ce sont les joueurs possédant ces pouvoirs qui décident lesquelles sont affectées.",8,1,Révélation,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Camouflage,L'attaquant ne divulgue pas la couleur de sa carte,8,1,Engagement,Instantané
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Clairvoyance,"En cas de victoire, cette carte reste sur le côté pendant X*3 tours. Pendant ce temps, les pouvoirs 'Mine de rien' et 'Pas si fort que ça' sont inactifs.",6,X,Révélation,Durable
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Commandant,La carte ne bloque pas les cartes qu'elle touche,4,1,Stratégie (sur carte disponible),Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Coup critique,"Si la carte est attaquante, l'adversaire ne prend pas du tout en compte sa valeur d'attaque dans le calcul de sa Valeur de Combat. De plus, les pouvoirs 'Rispote' et 'Soutien' sont inactifs.",10,1,Révélation,Instantané
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Divination,"En cas de victoire, l'adversaire devra jouer ses X prochaines cartes en premier et face visible. Si le joueur perd un combat alors que la carte divination est active, celle-ci est défaussée, et les tours restants sont perdus.",10,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Espion,"Si le joueur attaque, et qu'il gagne ou ne perd pas de plus de 10 points le combat, il peut décider de laisser son espion se faire capturer. En retour, il pourra révéler autant de cartes de l'adversaire que le coût payé en points (X)",8,X,Révélation,Durable
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Immunité,Les pouvoirs de la carte adverse ne peuvent pas être activés (les points mis en jeu sont retournés à l'adversaire),8,1,Révélation,Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Mine de rien,"La carte semble moins forte qu'elle ne l'est (une carte de puissance rouge apparait comme orange, et une orange apparait verte). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Pas si fort que ça,"La carte semble plus forte qu'elle ne l'est vraiment (une carte verte apparait orange, une orange apparait rouge). L'effet est appliqué pendant la phase d'Engagement, mais la carte n'est révélée qu'à la phase de Révélation.",6,1,Spécial (cf. Desc.),Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Riposte,"Si la carte défend, elle ajoute sa pleine valeur d'attaque à sa valeur de défense.",8,1,Révélation,Instantané
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Soutien,"En cas de victoire, la carte « Combattant » associée reste sur le côté pendant les X prochains tours, et ajoute la moitié de sa valeur de Défense à la Valeur de Combat des X prochains duels.",10,X,Révélation,Durable
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané
+Réorganisation,La carte peut changer de place avec l'une des cartes adjacentes.,4,1,Stratégie,Instantané

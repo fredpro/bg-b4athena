@@ -1,0 +1,41 @@
+﻿Titre,Att,Def
+Spartan,8,6
+Spartan,8,6
+Spartan,8,6
+Spartan,8,6
+Peltaste,2,4
+Peltaste,2,4
+Peltaste,2,4
+Peltaste,2,4
+Hoplite d'élite,8,16
+Hoplite d'élite,8,16
+Hoplite d'élite,8,16
+Hoplite d'élite,8,16
+Hoplite,6,12
+Hoplite,6,12
+Hoplite,6,12
+Hoplite,6,12
+Hippeis,18,10
+Hippeis,18,10
+Hippeis,18,10
+Hippeis,18,10
+Garde du Roi,12,18
+Garde du Roi,12,18
+Garde du Roi,12,18
+Garde du Roi,12,18
+Fantassin d'élite,10,8
+Fantassin d'élite,10,8
+Fantassin d'élite,10,8
+Fantassin d'élite,10,8
+Fantassin,6,4
+Fantassin,6,4
+Fantassin,6,4
+Fantassin,6,4
+Archer d'élite,16,4
+Archer d'élite,16,4
+Archer d'élite,16,4
+Archer d'élite,16,4
+Archer,8,0
+Archer,8,0
+Archer,8,0
+Archer,8,0

@@ -1,0 +1,31 @@
+link=battlegrounds_data.txt
+cardsize=6,6
+[all]="1-{(Terrain)}"
+[val_title]=1,1,4,2
+[pos_title_vp]=4.8,0.1,1,0.5
+[val_v_pts]=4.8,0.4,1,0.5
+[val_desc]=0.5,3,5,2.5
+
+[back_gray]=#CCCCCC
+
+[middle]="center","center"
+[black]=#000000
+
+[FONT_CARAC_HEADER]="arial", 8, BT, [black]
+[FONT_CARAC_VALUE]="arial", 9, BT, [black]
+[FONT_TITLE]="arial",12, BT, #FFFFFF
+[FONT_DESC]="arial",10,IT,[black]
+
+rectangle=[all],0,0,6,6,[black]
+rectangle=[all],0.1,0.1,5.8,5.8,[back_gray]
+
+FONT=[FONT_TITLE]
+TEXT=[all],[Terrain],[val_title],center,wordwrap
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"PV",[pos_title_vp],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[Valeur],[val_v_pts],center
+
+FONT=[FONT_DESC]
+text=[all],[Description],[val_desc],center,wordwrap

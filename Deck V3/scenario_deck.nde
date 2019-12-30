@@ -1,0 +1,67 @@
+link=scenarios_data.txt
+cardsize=15,15
+[all]="1-{(Titre)}"
+[val_title]=1,1,13,2
+[pos_bg]=0,0,15,15
+[pos_title_list_fighters_p1]=0.5,2,9,0.5
+[pos_val_list_fighters_p1]=1,2.5,9,1
+[pos_title_list_skills_p1]=0.5,3.5,9,0.5
+[pos_val_list_skills_p1]=1,4,9,1
+[pos_title_list_fighters_p2]=0.5,5,9,0.5
+[pos_val_list_fighters_p2]=1,5.5,9,1
+[pos_title_list_skills_p2]=0.5,6.5,9,0.5
+[pos_val_list_skills_p2]=1,7,9,1
+[pos_title_list_battlegrounds]=0.5,8,9,0.5
+[pos_val_list_battlegrounds]=1,8.5,9,1
+[pos_title_layout]=0.5,9.5,9,0.5
+[pos_layout_battlegrounds]=1,10,9,2
+[pos_layout_armies]=1,12,9,2
+[pos_layout_skills]=1,14,9,2
+
+[back_blue]=#AADDFF
+
+[middle]="center","center"
+[left]="left",wwtop
+[black]=#000000
+
+[FONT_TITLE]="arial",16, BT, #FFFFFF
+[FONT_DESC_TITLE]="arial",10,TU,[black]
+[FONT_DESC]="arial",8,T,[black]
+
+RECTANGLE=[all],[pos_bg],[black],EMPTY,0.2
+rectangle=[all],0.1,0.1,14.8,14.8,[back_blue]
+
+FONT=[FONT_TITLE]
+TEXT=[all],[Titre],[val_title],center,wordwrap
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Liste des combattants du Joueur 1 :",[pos_title_list_fighters_p1],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Combattants_J1],[pos_val_list_fighters_p1],[left]
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Liste des pouvoirs du Joueur 1 :",[pos_title_list_skills_p1],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Pouvoirs_J1],[pos_val_list_skills_p1],[left]
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Liste des combattants du Joueur 2 :",[pos_title_list_fighters_p2],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Combattants_J2],[pos_val_list_fighters_p2],[left]
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Liste des pouvoirs du Joueur 2 :",[pos_title_list_skills_p2],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Pouvoirs_J2],[pos_val_list_skills_p2],[left]
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Liste des cartes Terrain :",[pos_title_list_battlegrounds],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Terrains],[pos_val_list_battlegrounds],[left]
+
+FONT=[FONT_DESC_TITLE]
+TEXT=[all],"Mise en place :",[pos_title_layout],[left]
+FONT=[FONT_DESC]
+TEXT=[all],[Disposition_terrain],[pos_layout_battlegrounds],[left]
+TEXT=[all],[Disposition_armee],[pos_layout_armies],[left]
+TEXT=[all],[Disposition_pouvoirs],[pos_layout_skills],[left]

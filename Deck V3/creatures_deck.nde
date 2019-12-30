@@ -1,0 +1,61 @@
+link=creatures_data.txt
+cardsize=9,6
+[all]="1-{(att)}"
+[pos_title_cost]=0.2,0.1,1,0.5
+[val_cost]=0.2,0.4,1,0.5
+[val_title]=1,0.5,7,2
+[pos_title_vp]=7.8,0.1,1,0.5
+[val_v_pts]=7.8,0.4,1,0.5
+[val_desc]=0.5,3.6,3.5,2.0
+[pos_title_att]=0.2,5.1,1,0.5
+[val_att]=0.2,5.4,1,0.5
+[pos_title_def]=7.8,5.1,1,0.5
+[val_def]=7.8,5.4,1,0.5
+
+[back_green]=#00CC00
+[back_orange]=#FF8800
+[back_red]=#CC0000
+
+[middle]="center","center"
+[black]=#000000
+
+[FONT_CARAC_HEADER]="arial", 8, BT, [black]
+[FONT_CARAC_VALUE]="arial", 9, BT, [black]
+[FONT_TITLE]="arial",12, T, #FFFFFF
+[FONT_DESC]="arial",6,T,[black]
+
+rectangle=[all],0,0,9,6,[black]
+[combat] = {[att]+[def]}
+rectangle=[all],0.1,0.1,8.8,5.8,[back_red]
+IF = [combat] <= 10
+rectangle=[all],0.1,0.1,8.8,5.8,[back_green]
+ELSEIF = [combat] <= 20
+rectangle=[all],0.1,0.1,8.8,5.8,[back_orange]
+ENDIF
+
+FONT=[FONT_TITLE]
+TEXT=[all],[titre],[val_title],center,wordwrap
+
+[skill_desc] = ""
+[v_pts] = [combat]
+[cost] = {([combat]-1)£8}
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Coût",[pos_title_cost],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[cost],[val_cost],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"PV",[pos_title_vp],center
+FONT=[FONT_CARAC_VALUE]
+TEXT=[all],[v_pts],[val_v_pts],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Att",[pos_title_att],center
+FONT=[FONT_CARAC_VALUE]
+text=[all],[att],[val_att],center
+
+FONT=[FONT_CARAC_HEADER]
+text=[all],"Def",[pos_title_def],center
+FONT=[FONT_CARAC_VALUE]
+text=[all],[def],[val_def],center
